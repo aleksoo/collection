@@ -1,3 +1,5 @@
+// Used "Simple Hill Climbing" algorithm to solve Queens Problem
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
